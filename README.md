@@ -3,7 +3,7 @@
 I want to solidify my knowledge as a programmer and resolve problems around the world 🌍<br>
 A computer science student and cybersecurity enthusiast<br>
 You can also call me <b>Yuri D. Souza</b><br>
-I carry the will of the <b><i>D.</b></i>
+I carry the guts of the <b><i>D.</b></i>
 
 <!-- <div>
   <a href="https://githut.com/yuripicanco">
